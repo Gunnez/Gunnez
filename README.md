@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá, Me chamo Gustavo 🤙
 
-<!--
-**Gustavo-antunes/Gustavo-antunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou tentando aprimorar minhas habilidades de programação
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavo-antunes&count_private=true&show_icons=true&theme=bear" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-antunes&layout=compact&theme=bear" />
+</a>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+  <img align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif">
