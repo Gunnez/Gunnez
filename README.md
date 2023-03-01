@@ -3,10 +3,10 @@
 Estou tentando aprimorar minhas habilidades de programação e fazer projetos enquanto aprendo novas técnicas
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavo-antunes&count_private=true&show_icons=true&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gunnez&count_private=true&show_icons=true&theme=bear" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-antunes&layout=compact&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunnez&layout=compact&theme=bear" />
 </a>
 
 ##
