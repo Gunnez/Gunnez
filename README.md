@@ -1,6 +1,6 @@
 ## Olá, Me chamo Gustavo 🤙
 
-Estou tentando aprimorar minhas habilidades de programação e fazer projetos enquanto aprendo novas técnicas
+Estou tentando aprimorar minhas habilidades de programação e fazer projetos enquanto aprendo novas técnicas e tecnologias
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gunnez&count_private=true&show_icons=true&theme=bear" />
@@ -13,7 +13,7 @@ Estou tentando aprimorar minhas habilidades de programação e fazer projetos en
  <img align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif">
  
 - 🔭 No momento estou afiando minhas habilidades de front-end e java
-- 🌱 Aprendendo mais a fundo HTML5 CSS3 javascript e php
+- 🌱 Aprendendo mais a fundo Spring boot e aplicações em sites
 - 🎓 Formado em ciencia da computação
 - ⚡ Fun fact: Sou uma pessoa que gosta muito de games, planejo no futuro programar alguns
 
